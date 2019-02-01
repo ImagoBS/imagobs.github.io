@@ -19,7 +19,7 @@ A restaurant template for the business owner who seeks to impress. High quality 
 Give your customers an online experience they will never forget. Make your online shop even nicer than your physical shop. 
 
 ## [Cocoon]()
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/cocoon-1.PNG)
+![image](https://photos.app.goo.gl/F5gX9TUMkCTXmyLeA)
 The fashion brand that seeks to make a statement. Let your potential customers see the beauty of your designs on your online store as nicely as they would have in your physical store.
 
 ## [Halo](https://github.com/ImagoBS/imagobs.github.io/tree/master/halo)
