@@ -11,7 +11,7 @@ We deliver an unparalleled service to our clients as we go above and beyond to e
 Over the years we have been privileged to help several businesses tap into huge potentials and benefits of taking their business online. Below are samples of our past works;
 
 ## [EatWell](https://github.com/ImagoBS/imagobs.github.io/tree/master/eatwell)
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/eatwell-1.PNG)
+![image](/imgs/eatwell-1.PNG)
 A restaurant template for the business owner who seeks to impress. High quality images and responsiveness that fits any screen size.
 
 ## [Luto](https://github.com/ImagoBS/imagobs.github.io/tree/master/luto)
