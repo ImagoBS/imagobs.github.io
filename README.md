@@ -11,19 +11,19 @@ We deliver an unparalleled service to our clients as we go above and beyond to e
 Over the years we have been privileged to help several businesses tap into huge potentials and benefits of taking their business online. Below are samples of our past works;
 
 ## [EatWell](https://github.com/ImagoBS/imagobs.github.io/tree/master/eatwell)
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/eatwell-1.PNG)
+![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/eatwell-1.PNG)
 A restaurant template for the business owner who seeks to impress. High quality images and responsiveness that fits any screen size.
 
 ## [Luto](https://github.com/ImagoBS/imagobs.github.io/tree/master/luto)
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/luto-1.PNG)
+![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/luto-1.PNG)
 Give your customers an online experience they will never forget. Make your online shop even nicer than your physical shop. 
 
 ## [Cocoon]()
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/cocoon-1.PNG)
+![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/cocoon-1.PNG)
 The fashion brand that seeks to make a statement. Let your potential customers see the beauty of your designs on your online store as nicely as they would have in your physical store.
 
 ## [Halo](https://github.com/ImagoBS/imagobs.github.io/tree/master/halo)
-![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/halo.PNG)
+![image](https://github.com/ImagoBS/imagobs.github.io/blob/master/imgs/halo.PNG)
 Are you a photographer seeking to create a stunning website to show the world the quality of your pictures? Then this is the perfect site for you. 
 
 
